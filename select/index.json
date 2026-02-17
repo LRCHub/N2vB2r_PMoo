@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ガンダーラ",
+  "base_artist": "Mone Kamishiraishi",
+  "createdAt": "2026-02-17T15:48:07.713674Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ガンダーラ - English Version",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/01_ガンダーラ_-_English_Version_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "鷺ノ宮伊澄 starring 松来未祐",
+      "has_synced": false,
+      "path": "select/02_ガンダーラ_鷺ノ宮伊澄_starring_松来未祐.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "鷺ノ宮伊澄 (松来未祐)",
+      "has_synced": false,
+      "path": "select/03_ガンダーラ_鷺ノ宮伊澄_(松来未祐).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/04_ガンダーラ_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ガンダーラ - Gandhara",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/05_ガンダーラ_-_Gandhara_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/06_ガンダーラ_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "MONKEY MAJIK",
+      "has_synced": true,
+      "path": "select/07_ガンダーラ_MONKEY_MAJIK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/08_ガンダーラ_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ガンダーラ (English Version)",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/09_ガンダーラ_(English_Version)_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "ゴダイゴ",
+      "has_synced": true,
+      "path": "select/10_ガンダーラ_ゴダイゴ.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/11_ガンダーラ_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ガンダーラ (English Version)",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/12_ガンダーラ_(English_Version)_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ガンダーラ",
+      "artist": "Mone Kamishiraishi",
+      "has_synced": true,
+      "path": "select/13_ガンダーラ_Mone_Kamishiraishi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ガンダーラ Gandhara (Japanese Version)",
+      "artist": "Godiego",
+      "has_synced": true,
+      "path": "select/14_ガンダーラ_Gandhara_(Japanese_Version)_Godiego.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ガンダーラ (24bit/96kHz)",
+      "artist": "GODIEGO",
+      "has_synced": true,
+      "path": "select/15_ガンダーラ_(24bit_96kHz)_GODIEGO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガンダーラ",
+      "artist": "上白石萌音",
+      "has_synced": false,
+      "path": "select/pl_01_ガンダーラ_上白石萌音.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ガンダーラ",
+      "artist": "上白石萌音",
+      "has_synced": false,
+      "path": "select/pl_02_ガンダーラ_上白石萌音.txt"
+    }
+  ]
+}
